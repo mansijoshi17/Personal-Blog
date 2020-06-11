@@ -1,0 +1,23 @@
+.top-center {
+    justify-content: center;
+    display: flex;
+}
+
+a.Header-nav-item {
+    margin: 0 2.38em;
+    padding: .618em 0;
+    color: #111720;
+    font-family: futura-pt;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 10.5px;
+    letter-spacing: .29em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.logo-header {
+    padding: 40px 179px 40px 179px;
+    justify-content: center;
+    display: flex;
+}
